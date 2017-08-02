@@ -1,0 +1,40 @@
+algorithm: opt
+++++++++++++++++++++++++++++++
+tr-blocked.ref file
+------------------------------
+mem size: 50
+Hit count: 2414561
+Miss count: 3695
+Clean evictions: 2560
+Dirty evictions: 1085
+Total references : 2418256
+Hit rate: 99.8472
+Miss rate: 0.1528
+
+mem size: 100
+Hit count: 2415259
+Miss count: 2997
+Clean evictions: 1825
+Dirty evictions: 1072
+Total references : 2418256
+Hit rate: 99.8761
+Miss rate: 0.1239
+
+mem size: 150
+Hit count: 2415734
+Miss count: 2522
+Clean evictions: 1297
+Dirty evictions: 1075
+Total references : 2418256
+Hit rate: 99.8957
+Miss rate: 0.1043
+
+mem size: 200
+Hit count: 2415984
+Miss count: 2272
+Clean evictions: 1007
+Dirty evictions: 1065
+Total references : 2418256
+Hit rate: 99.9060
+Miss rate: 0.0940
+
